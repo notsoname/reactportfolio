@@ -1,0 +1,14 @@
+.home {
+    display: flex;
+}
+
+.home-header {
+    color: #7FFF00;
+    font-size: 36px;
+    margin-right: 20px;
+}
+
+.home-img {
+    width: 300px;
+    border-radius: 2px;
+}

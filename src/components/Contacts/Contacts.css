@@ -1,0 +1,17 @@
+.contacts {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.contacts-icon {
+    width: 100px;
+}
+
+.contacts-tel {
+    color: black;
+}

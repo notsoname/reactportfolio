@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: #ffffff;
+}
+
+.app {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
+
+.app-wrapper {
+    width: 940px;
+    margin: 0 auto;
+}
+
+li, a {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.container {
+    padding-top: 40px;
+}
